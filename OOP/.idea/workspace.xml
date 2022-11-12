@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e151d979-2f9a-4e0f-ab54-6fbcc824cc0f" name="Default Changelist" comment="stopwatch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClassInterface/ComparatorSoSanh/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractClassInterface/ComparatorSoSanh/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClassInterface/ComparatorSoSanh/ComparableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractClassInterface/ComparatorSoSanh/ComparableCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractClassInterface/ComparatorSoSanh/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractClassInterface/ComparatorSoSanh/RunTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2H89c0jEpidoAME5aFrXtZEwCOD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webstorm\JAVA\OOP\src\AbstractClassInterface\ComparatorSoSanh" />
+      <recent name="D:\webstorm\JAVA\OOP\src\Class\Object" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Class.Object" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RunTest">
+    <configuration name="AbstractAndInterfaceTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClassInterface.ClassAnimal_InterfaceEdible.AbstractAndInterfaceTests" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractClassInterface.ClassAnimal_InterfaceEdible.edible.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KeThua.Point_MoveablePoint.RunTest" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KeThua.Point_MoveablePoint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KeThua.Triangle.RunTest" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KeThua.Triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClassInterface.InterfaceComparableofShape.RunTest" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractClassInterface.InterfaceComparableofShape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStaticProperty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccessModifier_StaticMethod_StaticProperty.StaticProperty.TestStaticProperty" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AccessModifier_StaticMethod_StaticProperty.StaticProperty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestStaticProperty" />
+      <item itemvalue="Application.RunTest (2)" />
+      <item itemvalue="Application.RunTest (3)" />
+      <item itemvalue="Application.AbstractAndInterfaceTests" />
+      <item itemvalue="Application.RunTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunTest" />
+        <item itemvalue="Application.AbstractAndInterfaceTests" />
+        <item itemvalue="Application.RunTest (3)" />
+        <item itemvalue="Application.RunTest (2)" />
+        <item itemvalue="Application.TestStaticProperty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e151d979-2f9a-4e0f-ab54-6fbcc824cc0f" name="Default Changelist" comment="" />
+      <created>1667655921460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667655921460</updated>
+      <workItem from="1667655925369" duration="1828000" />
+      <workItem from="1667657965677" duration="606000" />
+      <workItem from="1667698224993" duration="3723000" />
+      <workItem from="1667723214927" duration="2967000" />
+      <workItem from="1667737726680" duration="1348000" />
+      <workItem from="1667782709990" duration="9435000" />
+      <workItem from="1667815380837" duration="632000" />
+      <workItem from="1667825046377" duration="613000" />
+      <workItem from="1667836240706" duration="404000" />
+      <workItem from="1667875626094" duration="19573000" />
+      <workItem from="1667902237793" duration="91000" />
+      <workItem from="1667902352881" duration="142000" />
+      <workItem from="1667902637107" duration="49000" />
+      <workItem from="1667902716394" duration="36000" />
+      <workItem from="1667962011091" duration="7293000" />
+      <workItem from="1667975439768" duration="3882000" />
+      <workItem from="1668046496313" duration="73000" />
+      <workItem from="1668090488155" duration="21000" />
+    </task>
+    <task id="LOCAL-00001" summary="stopwatch">
+      <created>1667656004398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667656004398</updated>
+    </task>
+    <task id="LOCAL-00002" summary="stopwatch">
+      <created>1667656019090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667656019090</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stopwatch" />
+    <option name="LAST_COMMIT_MESSAGE" value="stopwatch" />
+  </component>
+</project>
