@@ -74,7 +74,7 @@ public class ManagerAccount {
             scanner.nextLine();
         }
         else {
-            System.out.println("\nDanh sách Account là: ");
+            System.out.println("\nDanh sách Account: ");
             for (int i = 0; i < accounts.length; i++) {
                 System.out.println(accounts[i].toString());
             }
@@ -124,5 +124,4 @@ public class ManagerAccount {
             scanner.nextLine();
         }
     }
-
 }

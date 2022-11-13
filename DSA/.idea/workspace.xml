@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b432e2b0-20f5-4736-a6d9-f61a631727b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../AccountManager/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountManager/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccountManager/src/manager/ManagerAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountManager/src/manager/ManagerAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccountManager/src/model/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AccountManager/src/model/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCodeRefactoring_AutomatedTestingTDD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCodeRefactoring_AutomatedTestingTDD/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCodeRefactoring_AutomatedTestingTDD/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCodeRefactoring_AutomatedTestingTDD/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCodeRefactoring_AutomatedTestingTDD/CleanCodeRefactoring_AutomatedTestingTDD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCodeRefactoring_AutomatedTestingTDD/src/CleanCode_Refactoring/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCodeRefactoring_AutomatedTestingTDD/src/CleanCode_Refactoring/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCodeRefactoring_AutomatedTestingTDD/src/CleanCode_Refactoring/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCodeRefactoring_AutomatedTestingTDD/src/CleanCode_Refactoring/RefactoringDoiTen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCodeRefactoring_AutomatedTestingTDD/src/CleanCode_Refactoring/TennisGame.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HUAyMGhN39wcO8tay6vur9B8gA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.TestMyLinkedList">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DanhSach.SimpleLinkedList.MyListTest" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DanhSach.SimpleLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DanhSach.SimpleList.TestMyLinkedList" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DanhSach.SimpleList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMyLinkedList" />
+        <item itemvalue="Application.MyListTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b432e2b0-20f5-4736-a6d9-f61a631727b2" name="Changes" comment="" />
+      <created>1668329544453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668329544453</updated>
+      <workItem from="1668329545966" duration="1466000" />
+      <workItem from="1668331050785" duration="8000" />
+      <workItem from="1668394405130" duration="27000" />
+      <workItem from="1668396767969" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,5 +1,4 @@
 import manager.ManagerAccount;
-import model.Account;
 
 import java.util.Scanner;
 
@@ -8,12 +7,12 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         ManagerAccount managerAccount = new ManagerAccount();
         while (true) {
-            System.out.println("\nQuản lý tài khoản");
-            System.out.println("1. Hiển thị tài khoản:");
-            System.out.println("2. Thêm tài khoản mới:");
-            System.out.println("3. Sửa password theo username:");
-            System.out.println("4. Xoá tài khoản theo username:");
-            System.out.println("5. Tìm tài khoản theo usrername:");
+            System.out.println("\nQuản lý Account");
+            System.out.println("1. Hiển thị list Account:");
+            System.out.println("2. Thêm Account mới:");
+            System.out.println("3. Sửa Password: ");
+            System.out.println("4. Xoá Account:");
+            System.out.println("5. Tìm Account:");
             System.out.println("6. Thoát");
             System.out.println("\nNhập lựa chọn");
             int choice = Integer.parseInt(scanner.nextLine());
@@ -37,8 +36,7 @@ public class Main {
                     System.exit(0);
                     break;
                 default:
-                    System.out.println("Mời nhập lại");
-                    scanner.nextLine();
+                   break;
             }
         }
     }
